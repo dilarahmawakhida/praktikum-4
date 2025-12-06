@@ -1,0 +1,6 @@
+﻿Build started at 16:02...
+1>------ Build started: Project: 1, Configuration: Debug x64 ------
+1>1.cpp
+1>1.vcxproj -> C:\Users\HP\source\repos\1\x64\Debug\1.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 16:02 and took 03,028 seconds ==========
